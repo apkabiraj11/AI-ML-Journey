@@ -5,7 +5,7 @@
 
 ---
 
-## Week 1 — June 2026
+## Week 1 — 15 Jun 2026
 
 **Phase:** 1 — Python & Math Foundations
 
