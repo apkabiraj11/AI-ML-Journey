@@ -7,26 +7,28 @@
 
 **Phase:** 1 — Python & Math Foundations  
 **Topics covered:**
->Datatypes
->Variable
->Loop
->conditionals
->File i/o
->Basic Python
-- 
+- Datatypes
+- Variable
+- Loop
+- conditionals
+- File i/o
+- Basic Python
+-
 
 **What clicked:**
->Everyting was fine and understanding
-- 
+- Everyting was fine and understanding
+-
 
 **What was confusing:**
->I Understood Without Confusion
-- 
+- I Understood Without Confusion
+-
 
-**Time spent:** ~3 hours 
-**Resources used:** CS50P — Python (cs50.harvard.edu)
-- 
-
+**Time spent:**
+- ~3 hours
+-
+**Resources used:** 
+- CS50P — Python (cs50.harvard.edu) YouTube
+-
 **Mini wins:**
 - 
 
