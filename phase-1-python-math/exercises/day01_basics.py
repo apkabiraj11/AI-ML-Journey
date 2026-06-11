@@ -1,3 +1,3 @@
 # Day 01 — Python Basics
-# Date:
+# Date: 
 # Topics practiced:
